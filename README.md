@@ -9,10 +9,10 @@ The datasets used for this project was obtained from my lecturer Dr. Charles Jac
 
 Upon exploring the dataset, the following interesting questions would be solved:
 
-1. Which type of meal plan has the most purchases at both cafeteria's(Akorno or Mannies)?
-2. Which days of the week has the most purchases and type of food it is at both cafeteria's?
-3. Which yeargroup has the most purchases and what type of food it is?
-4. Which nationality has the most purchases against the least purchases?
-5. Which yeargroup is eating healthy or not?
+1. Which type of meal plan has the most patronize?
+2.Which cafeteria holds the highest share with the most patronized meal plan?
+3.Which nationality has the highest purchases?
+4.Which course group has the most purchases pertaining to which cafeteria?
+
 
 And Many More Stay Tuned................
